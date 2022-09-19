@@ -19,21 +19,21 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/saoirs2x/OneDrive - Intel Corporation/Desktop/Personal_Website/Emma_Personal_Website_2/Emma_Personal_Website/Pages/About.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/saoirs2x/OneDrive - Intel Corporation/Desktop/Personal_Website/Emma_Personal_Website_2/Emma_Personal_Website/Pages/CV.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1YucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/saoirs2x/OneDrive - Intel Corporation/Desktop/Personal_Website/Emma_Personal_Website_2/Emma_Personal_Website/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/saoirs2x/OneDrive - Intel Corporation/Desktop/Personal_Website/Emma_Personal_Website_2/Emma_Personal_Website/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/saoirs2x/OneDrive - Intel Corporation/Desktop/Personal_Website/Emma_Personal_Website_2/Emma_Personal_Website/Pages/About.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-fmgz5xj2r0
+
+[C:/Users/saoirs2x/OneDrive - Intel Corporation/Desktop/Personal_Website/Emma_Personal_Website_2/Emma_Personal_Website/Pages/CV.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1YucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-0iyqqb6y0r
+
+[C:/Users/saoirs2x/OneDrive - Intel Corporation/Desktop/Personal_Website/Emma_Personal_Website_2/Emma_Personal_Website/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-80uz0jk3n9
 
 [C:/Users/saoirs2x/OneDrive - Intel Corporation/Desktop/Personal_Website/Emma_Personal_Website_2/Emma_Personal_Website/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=

@@ -25,3 +25,6 @@ C:\Users\saoirs2x\OneDrive - Intel Corporation\Desktop\Personal_Website\Emma_Per
 C:\Users\saoirs2x\OneDrive - Intel Corporation\Desktop\Personal_Website\Emma_Personal_Website_2\Emma_Personal_Website\obj\Debug\net6.0\Emma_Personal_Website.pdb
 C:\Users\saoirs2x\OneDrive - Intel Corporation\Desktop\Personal_Website\Emma_Personal_Website_2\Emma_Personal_Website\obj\Debug\net6.0\Emma_Personal_Website.genruntimeconfig.cache
 C:\Users\saoirs2x\OneDrive - Intel Corporation\Desktop\Personal_Website\Emma_Personal_Website_2\Emma_Personal_Website\obj\Debug\net6.0\ref\Emma_Personal_Website.dll
+C:\Users\saoirs2x\OneDrive - Intel Corporation\Desktop\Personal_Website\Emma_Personal_Website_2\Emma_Personal_Website\obj\Debug\net6.0\scopedcss\Pages\CV.razor.rz.scp.css
+C:\Users\saoirs2x\OneDrive - Intel Corporation\Desktop\Personal_Website\Emma_Personal_Website_2\Emma_Personal_Website\obj\Debug\net6.0\scopedcss\Pages\About.razor.rz.scp.css
+C:\Users\saoirs2x\OneDrive - Intel Corporation\Desktop\Personal_Website\Emma_Personal_Website_2\Emma_Personal_Website\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
