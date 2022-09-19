@@ -8,13 +8,43 @@
     </div>
 
     <main>
-        <div class="top-row px-4">
-            <a href="https://docs.microsoft.com/aspnet/" target="_blank">About</a>
+        <div class="top-row">
+            <div class="CV_Button">
+                <button type="button"><NavLink href="/CV">CV</NavLink></button>
+            </div>
+            <div class="Emma_Harris_Button">
+                <button type="button"><NavLink href="/">Emma Harris</NavLink></button>
+            </div>
+            <div class="About_Button">
+                <button type="button"><NavLink href="/About">About</NavLink></button>
+            </div>
+
         </div>
+ <!--==============================================================================================================================================================-->
+
+
 
         <article class="content px-4">
             @Body
         </article>
+        
+
+
+<!--==============================================================================================================================================================-->
+
+
+        <div class="bottom-row">
+            <div class="Linkedin_Button">
+                <button oneclick="https://www.linkedin.com/in/emma-harris-b67136211"><ion-icon name="logo-linkedin" ></ion-icon></button>
+            </div>
+            <div class="GitHub_Button">
+                <button oneclick="https://github.com/emmaharris00000"><ion-icon name="logo-github"></ion-icon></button>
+            </div>
+            <div class="Twitter_Button">
+                <button oneclick="https://twitter.com"><ion-icon name="logo-twitter"></ion-icon></button>
+            </div>
+        </div>
+
     </main>
 
 </div>

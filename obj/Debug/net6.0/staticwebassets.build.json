@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/rAVlK59mf5tHoUktsQ1GjTumvLP8nyaTU08O0F65hQ=",
+  "Hash": "0Y4dQTG96yc8OBdWuC3aW8wWSpD7xeRlKXq4pCTThNk=",
   "Source": "Emma_Personal_Website",
   "BasePath": "_content/Emma_Personal_Website",
   "Mode": "Default",
@@ -270,6 +270,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\saoirs2x\\OneDrive - Intel Corporation\\Desktop\\Personal_Website\\Emma_Personal_Website_2\\Emma_Personal_Website\\wwwroot\\images\\bladee.webp",
+      "SourceId": "Emma_Personal_Website",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saoirs2x\\OneDrive - Intel Corporation\\Desktop\\Personal_Website\\Emma_Personal_Website_2\\Emma_Personal_Website\\wwwroot\\",
+      "BasePath": "_content/Emma_Personal_Website",
+      "RelativePath": "images/bladee.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bladee.webp"
     }
   ]
 }
