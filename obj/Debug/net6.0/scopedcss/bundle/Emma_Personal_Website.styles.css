@@ -4,27 +4,25 @@
   justify-content: center;
 }
 .About_Paragraph[b-fmgz5xj2r0] {
-
   width: 40rem;
   padding-left: 10rem;
   padding-right: 10rem;
   text-align: center;
-  
 }
 .Email[b-fmgz5xj2r0] {
-
   width: 40rem;
   padding-left: 10rem;
   padding-right: 10rem;
   text-align: center;
-
 }
-.About_Heading[b-fmgz5xj2r0] {
-
-  width: 40rem;
+.Emma_Picture[b-fmgz5xj2r0] {
+  border-style: double;
+  border-color: rgba(209,207,197);
+  border-width: 1rem;
   padding-left: 10rem;
   padding-right: 10rem;
-  text-align: center;
+  display: flex;
+  justify-content: center;
 }
 /* _content/Emma_Personal_Website/Pages/CV.razor.rz.scp.css */
 body[b-0iyqqb6y0r] {
@@ -87,9 +85,6 @@ main[b-ft01thqsgn] {
   background: none;
   font-size: 30px;
 }
-.Emma_Harris_Button.btn[b-ft01thqsgn]{
-
-}
 .About_Button:hover[b-ft01thqsgn] {
   transform: scale(1.1);
   padding: 0;
@@ -110,6 +105,9 @@ main[b-ft01thqsgn] {
   justify-content: center;
   align-items: center;
   justify-content: space-around;
+}
+.Linkedin_Button[b-ft01thqsgn]{
+  color: red;
 }
 .Linkedin_Button:hover[b-ft01thqsgn] {
   transform: scale(1.1);

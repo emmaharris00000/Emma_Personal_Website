@@ -38,9 +38,6 @@ main {
   background: none;
   font-size: 30px;
 }
-.Emma_Harris_Button.btn{
-
-}
 .About_Button:hover {
   transform: scale(1.1);
   padding: 0;
@@ -61,6 +58,9 @@ main {
   justify-content: center;
   align-items: center;
   justify-content: space-around;
+}
+.Linkedin_Button{
+  color: red;
 }
 .Linkedin_Button:hover {
   transform: scale(1.1);

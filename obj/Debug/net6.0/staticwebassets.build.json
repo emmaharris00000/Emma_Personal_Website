@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0Y4dQTG96yc8OBdWuC3aW8wWSpD7xeRlKXq4pCTThNk=",
+  "Hash": "CWUND7sXUzg77V5EHbjDcYdGgkiIW7wKOV/qVSU9kvY=",
   "Source": "Emma_Personal_Website",
   "BasePath": "_content/Emma_Personal_Website",
   "Mode": "Default",
@@ -287,6 +287,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\bladee.webp"
+    },
+    {
+      "Identity": "C:\\Users\\saoirs2x\\OneDrive - Intel Corporation\\Desktop\\Personal_Website\\Emma_Personal_Website_2\\Emma_Personal_Website\\wwwroot\\images\\Emma.jpg",
+      "SourceId": "Emma_Personal_Website",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\saoirs2x\\OneDrive - Intel Corporation\\Desktop\\Personal_Website\\Emma_Personal_Website_2\\Emma_Personal_Website\\wwwroot\\",
+      "BasePath": "_content/Emma_Personal_Website",
+      "RelativePath": "images/Emma.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Emma.jpg"
     }
   ]
 }

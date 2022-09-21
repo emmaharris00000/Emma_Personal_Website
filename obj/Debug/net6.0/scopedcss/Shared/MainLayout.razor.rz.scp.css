@@ -38,9 +38,6 @@ main[b-ft01thqsgn] {
   background: none;
   font-size: 30px;
 }
-.Emma_Harris_Button.btn[b-ft01thqsgn]{
-
-}
 .About_Button:hover[b-ft01thqsgn] {
   transform: scale(1.1);
   padding: 0;
@@ -61,6 +58,9 @@ main[b-ft01thqsgn] {
   justify-content: center;
   align-items: center;
   justify-content: space-around;
+}
+.Linkedin_Button[b-ft01thqsgn]{
+  color: red;
 }
 .Linkedin_Button:hover[b-ft01thqsgn] {
   transform: scale(1.1);
